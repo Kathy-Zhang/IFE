@@ -1,4 +1,4 @@
 # IFE
 Practice for Baidu IFE
 
-Hubot here,I like Node.js
+百度前端技术学院 练习
